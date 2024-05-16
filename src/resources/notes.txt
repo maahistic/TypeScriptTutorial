@@ -1,0 +1,3 @@
+1. to run the tyscipt code we need to use tsc, which we give us .js file
+2. noImplicitAny feature if for give the error if we dont define the variable type.
+3.  
